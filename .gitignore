@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+.venv-1/
+.matplotlib_cache/
+
+checkpoints/
+data/
+diagrams/
+
+.DS_Store
